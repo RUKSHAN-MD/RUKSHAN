@@ -1,6 +1,6 @@
 <br>
 
-## RUKSHAN-MD 👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
+## THE STAGE CAFE  👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
 
 <br>
 
