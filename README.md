@@ -16,6 +16,18 @@
    
    
    <img alt="rukshan-md" height="300" src="https://img.sanishtech.com/u/009c5d50418acfea68d56eee19e414da.jpg"> 
+
+
+   <img alt="rukshan-md" height="300" src="https://img.sanishtech.com/u/4b5e5ad47452ef661e3790f1239d8e51.jpg">
+
+
+   <img alt="rukshan-md" height="300" src="https://img.sanishtech.com/u/4b5e5ad47452ef661e3790f1239d8e51.jpg">
+
+
+   <img alt="rukshan-md" height="300" src="https://img.sanishtech.com/u/4b5e5ad47452ef661e3790f1239d8e51.jpg">
+
+
+   <img alt="rukshan-md" height="300" src="https://img.sanishtech.com/u/4b5e5ad47452ef661e3790f1239d8e51.jpg">
   
   </a>
 </p>  
@@ -83,7 +95,7 @@
 
 <a href="https://www.buymeacoffee.com/PrabathKumara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-# PRABATH-MD Bot Commands
+#  Bot Commands
 
 This is a list of commands supported by the Prabath-Md bot. The commands are organized in a table with the following structure:
 
@@ -244,23 +256,23 @@ This is a list of commands supported by the Prabath-Md bot. The commands are org
 
 
 
-## 👑 **`PRABATH-MD BOT OWNERS,`** 👑
+## 👑 **`MR SALIYA BOT OWNERS,`** 👑
 
 
    <a href="https://github.com/prabathLK/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
 
-|**[`Prabath Kumara`](https://github.com/prabathLK)**|
+|**[`RUKSHAN`](https://github.com/prabathLK)**|
 
 ---
 
 <a href="https://github.com/SACHIBOT"><img src="https://avatars.githubusercontent.com/u/91013948?v=4" width=80 height=80></a> 
 
-|**[`Sachintha Rashan`](https://github.com/SACHIBOT)**|
+|**[`SARITHA`](https://github.com/SACHIBOT)**|
 
 ---
 
 ## ❤️‍🩹 Special Thanks to
-* [`vihangayt0`](https://github.com/vihangayt0/)
+* [`Cyber dexter`](https://github.com/vihangayt0/)
 
 <br>
 <br>
