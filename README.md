@@ -14,8 +14,8 @@
  
    
    
-   <img alt="rukshan-md" height="300" salt="rukshan-md" height="300" src="https://img.sanishtech.com/u/4b5e5ad47452ef661e3790f1239d8e51.jp">
-    
+   
+   <img alt="rukshan-md" height="300" src="https://img.sanishtech.com/u/4b5e5ad47452ef661e3790f1239d8e51.jpg"> 
   
   </a>
 </p>  
