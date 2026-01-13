@@ -9,7 +9,7 @@
 <br>
  
   <p align="center">  
-  <a href="https://img.sanishtech.com/u/0ee6607d03675cfa83fa9df13f79358d.png">
+  <a href="">
     <img alt="rukshan-md" height="300" src="https://img.sanishtech.com/u/4b5e5ad47452ef661e3790f1239d8e51.jpg">
  
    
