@@ -54,6 +54,11 @@
 <br>
 <br>
 
+## CHEESE KOTHTHU 🍽️🍗
+<br>
+<br>
+<img alt="rukshan-md" height="300"src=" https://img.sanishtech.com/u/3822672a97d694bce012b2fcd88440db.jpg">
+
 💡 This bot is created to download and find various things quickly, logo, photo edit and many other features. This bot is created using **[Baileys](https://github.com/WhiskeySockets/Baileys)**
 
 <br>
