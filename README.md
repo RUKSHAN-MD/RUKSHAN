@@ -33,12 +33,10 @@
 </p>  
 <br>
 
-##  FRUITS JUICE 🍉🍒🍓🍍
+##  FRUITS JUICE 🍉🍒🍓
 
 <img alt="rukshan-md" height="300" src="https://img.sanishtech.com/u/557ed9f202e6f32428763bc11ca2575a.jpg">
-<br>
-
-## PAPAYA JUICE 🍋
+🍋 PAPAYA JUICE - LKR . 550
 
 
 <br>
