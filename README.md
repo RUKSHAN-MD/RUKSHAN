@@ -1,12 +1,15 @@
 <br>
 
-## THE STAGE CAFE  👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
+## THE STAGE CAFE MENU LIST 🍉🌽🥦
 
 <br>
 
 🔮 `The main goal of creating this bot is to fully leverage WhatsApp and simplify its functionality.`
 
 <br>
+
+ ## CHOPPCY RICE 🌽🥦
+
  
   <p align="center">  
   <a href="">
