@@ -277,6 +277,7 @@ This is a list of commands supported by the Prabath-Md bot. The commands are org
 
 ✨ Feel free to explore and use these commands!
 
+"cd~/whatsapp"href="https://wa.me/qr/FU6SJSFI4CUME1">
 
 
 ## 👑 **`MR SALIYA BOT OWNERS,`** 👑
