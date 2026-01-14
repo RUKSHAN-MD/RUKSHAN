@@ -21,7 +21,7 @@
    <img alt="rukshan-md" height="300" src="https://img.sanishtech.com/u/f14228cc61d8ee7917baf7431f06f707.jpg">
 
 
-   <img alt="rukshan-md" height="300" src="https://img.sanishtech.com/u/4b5e5ad47452ef661e3790f1239d8e51.jpg">
+   <img alt="rukshan-md" height="300" src="https://img.sanishtech.com/u/417d89d5c42d31542e110bb3c37ccb22.jpg">
 
 
    <img alt="rukshan-md" height="300" src="https://img.sanishtech.com/u/4b5e5ad47452ef661e3790f1239d8e51.jpg">
