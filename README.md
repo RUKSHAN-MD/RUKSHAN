@@ -61,6 +61,9 @@
 <img alt="rukshan-md" height="300" src="https://img.sanishtech.com/u/61a1b16c8f8621ce66694616cb468de5.jpg">
 🌱 PINEAPPLE JUICE - LKR . 550
 
+<br> 
+<br>
+
 
 💡 This bot is created to download and find various things quickly, logo, photo edit and many other features. This bot is created using **[Baileys](https://github.com/WhiskeySockets/Baileys)**
 
