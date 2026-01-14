@@ -65,7 +65,7 @@
 <br>
 
 <img alt="rukshan-md" height="300" src="https://img.sanishtech.com/u/17265ddbe1f6d7c15ce21222eff81139.jpg">
-🌱 WATERMELLON JUICE - LKR . 550
+🌱 PASSION JUICE - LKR . 550
 
 <br>
 <br>
