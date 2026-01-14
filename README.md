@@ -64,7 +64,11 @@
 <br> 
 <br>
 
-<img alt="rukshan-md" height="300" src="https://img.sanishtech.com/u/4b5e5ad47452ef661e3790f1239d8e51.jpg">
+<img alt="rukshan-md" height="300" src="https://img.sanishtech.com/u/17265ddbe1f6d7c15ce21222eff81139.jpg">
+🌱 WATERMELLON JUICE - LKR . 550
+
+<br>
+<br>
 
 💡 This bot is created to download and find various things quickly, logo, photo edit and many other features. This bot is created using **[Baileys](https://github.com/WhiskeySockets/Baileys)**
 
