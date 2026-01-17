@@ -54,10 +54,11 @@
 <br>
 <br>
 
-## CHEESE KOTHTHU 🍽️🍗
+## HOT BEVERAGE ☕
 <br>
 <br>
-<img alt="rukshan-md" height="300"src="https://img.sanishtech.com/u/3822672a97d694bce012b2fcd88440db.jpg">
+<img alt="rukshan-md" height="300"src="https://img.sanishtech.com/u/a2f79a5355b2c2bebd5a59e838d99246.jpg">
+☕ CAPPUCCINO - LKR . 580
 
 💡 This bot is created to download and find various things quickly, logo, photo edit and many other features. This bot is created using **[Baileys](https://github.com/WhiskeySockets/Baileys)**
 
