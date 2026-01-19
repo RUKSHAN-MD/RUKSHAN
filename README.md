@@ -78,7 +78,7 @@
 <br>
 <br>
 
-<a href="https://wa.me/0742420974"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20Join%20Our%20WhatsApp%20Channel-black" alt="🎉 Join Our WhatsApp Channel" width="300"></a>
+<a href="https://whatsapp.com/channel/0029VbAjAevGJP8OVEeGBb3c"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20Join%20Our%20WhatsApp%20Channel-black" alt="🎉 Join Our WhatsApp Channel" width="300"></a>
 
 <br>
 
