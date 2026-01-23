@@ -20,7 +20,7 @@
 <br>
 <br>
 
-<img alt="rukshan-md" height="300" src="https://img.sanishtech.com/u/8738169b5a7b3dd825d585ac16155a62.jpg">
+<img alt="rukshan-md" height="300" src="https://img.sanishtech.com/u/4d00c89096255d2b4fb82ee15458211d.png">
 
 <br>
 <br>
