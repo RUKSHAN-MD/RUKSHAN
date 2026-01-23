@@ -1,7 +1,6 @@
 <br>
-<img alt="rukshan-md" height="300" src="https://img.sanishtech.com/u/a82a0d0c011f11e6c0b09be06ee14225.jpg">
+<img alt="rukshan-md" height="300" src="https://img.sanishtech.com/u/685e813c4290154a6e75f1b5ea3e4434.jpg">
 
-## THE STAGE CAFE MENU LIST 
 
 <br>
 
