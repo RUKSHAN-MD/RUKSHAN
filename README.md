@@ -11,45 +11,10 @@
 </p>  
 <br>
 
-##  FRUITS JUICE 🍉🍒🍓
+##   COLLOD BREAVERANG
 
-<img alt="rukshan-md" height="300" src="https://img.sanishtech.com/u/557ed9f202e6f32428763bc11ca2575a.jpg">
-🌱 PAPAYA JUICE - LKR . 550
+<img alt="rukshan-md" height="300" src="https://img.sanishtech.com/u/8738169b5a7b3dd825d585ac16155a62.jpg">
 
-<br>
-<br>
-
-<img alt="rukshan-md" height="300" src="https://img.sanishtech.com/u/5443d3562cf5da41aa3cebe21e627b7e.jpg">
-🌱 PROMAGANATE JUICE - LKR . 600
-
-<br>
-<br>
-
-<img alt="rukshan-md" height="300" src="https://img.sanishtech.com/u/4edef92dea0fd82f2722f390b1316ab7.jpg">
-🌱 MANGO JUICE - LKR . 550
-<br>
-<br>
-
-<img alt="rukshan-md" height="300" src="https://img.sanishtech.com/u/1e33c51de1c61ef1a672c55faeb08c15.jpg">
-🌱 ORANGE JUICE - LKR . 550
-
-<br> 
-<br> 
-
-<img alt="rukshan-md" height="300" src="https://img.sanishtech.com/u/61a1b16c8f8621ce66694616cb468de5.jpg">
-🌱 PINEAPPLE JUICE - LKR . 550
-
-<br> 
-<br>
-
-<img alt="rukshan-md" height="300" src="https://img.sanishtech.com/u/17265ddbe1f6d7c15ce21222eff81139.jpg">
-🌱 PASSION JUICE - LKR . 550
-
-<br>
-<br>
-
-<img alt="rukshan-md" height="300" src="https://img.sanishtech.com/u/20747787f9f9b81983e0e474e7c595c6.jpg">
-🌱 WATERMELLON JUICE - LKR . 550
 
 <br>
 <br>
