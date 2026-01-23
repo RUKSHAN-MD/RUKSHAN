@@ -1,6 +1,7 @@
 <br>
+<a href="https://github.com/SACHIBOT"><img src="https://img.sanishtech.com/u/5895c2e1ada54a20b07196c720b1488f.jpg" width=80 height=80></a> 
 
-## THE STAGE CAFE MENU LIST 🍉🌽🥦
+## THE STAGE CAFE MENU LIST 
 
 <br>
 
