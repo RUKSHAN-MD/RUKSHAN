@@ -1,8 +1,13 @@
 <br>
 <img alt="rukshan-md" height="300" src="https://img.sanishtech.com/u/685e813c4290154a6e75f1b5ea3e4434.jpg">
 
-
+</a>
+</p>  
 <br>
+
+##   Today special 
+<img alt="rukshan-md" height="300" src="https://img.sanishtech.com/u/5e340f72d3d55d77154d111a65042be6.png">
+
 
 🔮 `The main goal of creating this bot is to fully leverage WhatsApp and simplify its functionality.`
 
